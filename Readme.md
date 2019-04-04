@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/MasterColumnsOnDetailPage/Default.aspx) (VB: [Default.aspx](./VB/MasterColumnsOnDetailPage/Default.aspx))
-* [Default.aspx.cs](./CS/MasterColumnsOnDetailPage/Default.aspx.cs) (VB: [Default.aspx](./VB/MasterColumnsOnDetailPage/Default.aspx))
+* [Default.aspx.cs](./CS/MasterColumnsOnDetailPage/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/MasterColumnsOnDetailPage/Default.aspx.vb))
 <!-- default file list end -->
 # How to display column values within an expandable detail row
 
